@@ -1,0 +1,18 @@
+Name of Quantlet: 'Solidity-Lottery'
+
+Published in: 'Lottery'
+
+Description: 'A simple lottery smart contract for etherum compatible blockchains'
+
+Submitted:  '28 Aug 2022'
+
+Keywords: 
+- 'Solidity'
+- 'Blockchain'
+- 'Lottery'
+- 'Smart Contract'
+- 'Etherum'
+
+Author: 
+- 'Raul Cristian Bag'
+- 'Wolfgang Karl Härdle'
